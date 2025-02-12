@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center"><b>Hi , I'm Joaquín Rougé Núñez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Programming+Student"></a>
+</p>
+<br>
 
-<!--
-**JoaquinRouge/JoaquinRouge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	
+## **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+I'm a programming student based in Buenos Aires, Aergentina. I'm currently in half of my degree. I'm expanding my knowledges in backend development.
+
+🌱 I'm currently learning:
+  <ul>
+    <li>Spring Boot</li>
+  </ul>
+<br>
+
+## <b> Skills</b>
+<br>
+
+<p align="center">
+  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<br>   
+<br>
+
+## <b> Languages</b>
+<br>
+  <ul>
+    <li>Spanish: Frist Language</li>
+    <li>English: Conversational level</li>
+  </ul>
+  <br>
+
+## <b> Contact Me:</b>
+<br>
+<br>
+
+<p>
+  <ul>
+    <li>LinkedIn: https://www.linkedin.com/in/joaquin-rouge-nu%C3%B1ez-955b69173/</li>
+    <li>Gmail: joarouge@gmail.com</li>
+  </ul>
+</p>
