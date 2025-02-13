@@ -13,7 +13,7 @@
 
 <br>
 
-I'm a programming student based in Buenos Aires, Aergentina. I'm currently in half of my degree. I'm expanding my knowledges in backend development.
+I'm a programming student based in Buenos Aires, Argentina. I'm currently in half of my degree. I'm expanding my knowledges in backend development.
 
 🌱 I'm currently learning:
   <ul>
