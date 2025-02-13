@@ -39,7 +39,7 @@ I'm a programming student based in Buenos Aires, Argentina. I'm currently in hal
 ## <b> Languages</b>
 <br>
   <ul>
-    <li>Spanish: Frist Language</li>
+    <li>Spanish: First Language</li>
     <li>English: Conversational level</li>
   </ul>
   <br>
