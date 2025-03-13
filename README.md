@@ -17,7 +17,7 @@ I'm a programming student based in Buenos Aires, Argentina. I'm currently in hal
 
 🌱 I'm currently learning:
   <ul>
-    <li>Spring Boot</li>
+    <li>Spring Cloud Microservices</li>
   </ul>
 <br>
 
