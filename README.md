@@ -20,7 +20,7 @@ Soy estudiante de la carrera Analista de Sistemas, vivo en Buenos Aires, Argenti
 
 🌱 Actualmente aprendiendo:
 <ul>
-  <li>Microservicios con Spring Cloud</li>
+  <li>Spring Security</li>
 </ul>
 
 <br>
