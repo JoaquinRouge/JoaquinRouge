@@ -41,6 +41,8 @@ Soy estudiante de la carrera Analista de Sistemas, vivo en Buenos Aires, Argenti
 
 </p>
 
+<p>Mis proyectos personales estan debajo de este documento</p>
+
 <br>   
 <br>
 
