@@ -17,12 +17,6 @@
 <br>
 
 Soy estudiante de la carrera Analista de Sistemas, vivo en Buenos Aires, Argentina. Actualmente estoy a mitad de mi carrera y me estoy enfocando en el desarrollo backend, aprendiendo y aplicando tecnologías modernas.
-
-🌱 Actualmente aprendiendo:
-<ul>
-  <li>Docker</li>
-</ul>
-
 <br>
 
 ## <b> Habilidades</b>
