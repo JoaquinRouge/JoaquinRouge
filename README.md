@@ -23,15 +23,18 @@ Mi objetivo actual es **insertarme profesionalmente en el sector IT**, ya sea co
 - Spring Boot
 - Spring Data JPA
 - Spring Security + JWT
-- Microservicios (nivel inicial)
+- Microservicios
+- NodeJS (básico)
 
 ### **Frontend**
 - HTML / CSS / JavaScript
-- Vue.js (básico/intermedio)
-- Flutter (nivel académico)
+- Vue.js
+- Angular
+- Flutter
 
 ### **Base de datos**
 - MySQL
+- MongoDB
 - Firebase (para mobile)
 
 ### **Herramientas**
